@@ -4,6 +4,8 @@ An animated 3D clock in a single web page. Falling water drives the gears, a pen
 
 Everything is in one file, `marble-water-clock.html`, rendered with [three.js](https://threejs.org/) r128.
 
+- **Live clock:** https://jurgenkobierczynski.com/MarbleWaterClock/MarbleWaterClock.html
+
 ## How it runs
 
 The pendulum, the marbles and the water form one closed loop:
